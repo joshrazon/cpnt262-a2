@@ -1,7 +1,7 @@
 # CPNT262-Assignment 2: Dynamic Animals Gallery 
 by Joshua Razon
 
-[GitHub Pages]() link.
+[GitHub Pages](https://joshrazon.github.io/cpnt262-a2/) link.
 
 [GitHub Repo](https://github.com/joshrazon/cpnt262-a2) link.
 
